@@ -67,8 +67,18 @@ print(cl)
 ```
 
 ## Output:
-
-
+## Dataset:
+![alt text](output/Dataset.png)
+## Train_Test:
+![alt text](output/train_test.png)
+## y_pred
+![alt text](output/y_pred.png)
+## Accuracy
+![alt text](output/accuracy.png)
+## Confusion Matrix
+![alt text](output/classification.png)
+## Classification Report
+![alt text](output/confusionmatrix.png)
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
